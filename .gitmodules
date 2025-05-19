@@ -1,0 +1,3 @@
+[submodule "FaceRecognition"]
+	path = FaceRecognition
+	url = https://github.com/Yanoshka/FaceRecognition.git
